@@ -17,8 +17,8 @@
 
 ## **Workbook**
 - All
-  - 수능특강
-  - 수능완성
+  - [수능특강](https://www.kyobobook.co.kr/product/detailViewMultiPopup.laf?barcode=9788954762939&ejkGb=KOR&mallGb=KOR&sBarcode=5800030399878&orderClick=LBQ&popupMode=seriesBookDetail)
+  - [수능완성](https://www.kyobobook.co.kr/product/detailViewMultiPopup.laf?barcode=9788954757997&ejkGb=KOR&mallGb=KOR&sBarcode=5800041025292&orderClick=LBQ&popupMode=seriesBookDetail)
 - Korean
   - [개념의 나비효과](http://kyobo.link/PCwE)
     - [개념의 나비효과 워크북](http://kyobo.link/DgGL)  
@@ -46,7 +46,7 @@
   - 2022 April : 2022년 4월 공부 흔적
   - 2022 May : 2022년 5월 공부 흔적
 - 잡소리 : 공부외의 내용 올라갑나디.
-  - OHMYGIRL : 오마이걸 관련 이야기가 올라갑니다.
+  - Hobby : 취미 관련 이야기가 올라갑니다.
   - Review : 각종 리뷰가 올라갑니다
   - Dog Sound : 그 외 잡담이 올라갑니다.
 
