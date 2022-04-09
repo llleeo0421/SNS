@@ -9,19 +9,8 @@
 - Favorite : OH MY GIRL
 - MBTI : INTP
 
-## **Academy**
-- 영어학원(주 3회)
-
 ## **Planner**
 - [MoteMote Task Manager 31days Darkhorse](https://motemote.kr/product/%EC%BB%AC%EB%9F%AC%EC%B9%A9-%ED%83%9C%EC%8A%A4%ED%81%AC-%EB%A7%A4%EB%8B%88%EC%A0%80-31days-%EB%8B%A4%ED%81%AC%ED%98%B8%EC%8A%A4/410/category/439/display/1/)
-
-## **Workbook**
-- All
-  - [수능특강](https://www.kyobobook.co.kr/product/detailViewMultiPopup.laf?barcode=9788954762939&ejkGb=KOR&mallGb=KOR&sBarcode=5800030399878&orderClick=LBQ&popupMode=seriesBookDetail)
-  - [수능완성](https://www.kyobobook.co.kr/product/detailViewMultiPopup.laf?barcode=9788954757997&ejkGb=KOR&mallGb=KOR&sBarcode=5800041025292&orderClick=LBQ&popupMode=seriesBookDetail)
-- Korean
-  - [개념의 나비효과](http://kyobo.link/PCwE)
-    - [개념의 나비효과 워크북](http://kyobo.link/DgGL)  
 
 ## **Post**
 - **블로그에 올라오는 모든 사진들(스터디플래너, 문제집, 기타 등등)저장 불가** 입니다.
