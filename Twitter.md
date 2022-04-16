@@ -1,5 +1,5 @@
 # 트친소
-![image](https://pbs.twimg.com/media/FNTjIVHVcAEph7F?format=jpg)
+![image](https://post-phinf.pstatic.net/MjAyMjAyMDhfMTU3/MDAxNjQ0MzAyNTA1NDE4.QKPQcJwtet-kSNgRLwXa0kO4aapH0uJTFft85SNIFlQg.GMpF5tDUpOeFxTDFJRW5ostEAA2liwUnS_ZDePX7oUQg.JPEG/01.jpg)
 
 ## 😑 기본 정보
 - 이름 : Rocket Ride (악악우)
