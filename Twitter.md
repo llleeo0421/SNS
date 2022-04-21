@@ -5,6 +5,7 @@
 - 나이 : 19
 
 ## 🐦 Tweet
+- FUB FREE
 - RT / 마음 / 개발 / 오마이걸 / 일상 / 탐라소통 / 등등
   - 블로그 글 공유
     - 타이머 / 플래너 공유
@@ -19,7 +20,9 @@
 - 정치 이야기 하는 사람
 
 ## ♌ Follow
-- RT / 마음 / 멘션 
+- RT / 마음 / 멘션
+  - 어떤 흔적을 남겨도 다 찾아감
+- 선팔은 구독팔로 간주 함
 
 ## 🖥️ Website
 - Asked : [llleeo](https://asked.kr/llleeo)
@@ -27,5 +30,5 @@
 - Instagram : [@llleeo__](https://instagram.com/llleeo__)
 - Twitter : [@llleeo0421](https://twitter.com/llleeo0421)
 - Git Hub
-  - Main : [August-Leo-0805](https://github.com/August-Leo-0805)
-  - Blog : [llleeo0421](https://github.com/llleeo0421)
+  - Offcial : [August-Leo-0805](https://github.com/August-Leo-0805)
+  - Personal : [llleeo0421](https://github.com/llleeo0421)
