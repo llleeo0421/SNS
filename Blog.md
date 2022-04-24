@@ -2,15 +2,11 @@
 
 ## **Who am I**
 - Nickname : [Rocket Ride](https://open.spotify.com/track/6rbT6gJufhm9a5xEmMlyc1)
-  - Real Name : Leo Kim  
+  - Real Name : August Leo Kim  
 - Born : 2004. Sep. 25
-- School : 일반계 고등학교 
 - Hobby : Speed Cubing, Video Game
 - Favorite : OH MY GIRL
 - MBTI : INTP
-
-## **Planner**
-- [MoteMote Task Manager 31days Darkhorse](https://motemote.kr/product/%EC%BB%AC%EB%9F%AC%EC%B9%A9-%ED%83%9C%EC%8A%A4%ED%81%AC-%EB%A7%A4%EB%8B%88%EC%A0%80-31days-%EB%8B%A4%ED%81%AC%ED%98%B8%EC%8A%A4/410/category/439/display/1/)
 
 ## **Post**
 - **블로그에 올라오는 모든 사진들(스터디플래너, 문제집, 기타 등등)저장 불가** 입니다.
@@ -26,7 +22,7 @@
   - Main : 주요 공지가 올라가는 곳 입니다.
   - 그 외 : 주요 공지 이외의 공지가 올라가는 곳 입니다.
 - Study : 공부 관련 내용이 올라갑니다.
-  - 모의고사 : 모의고사 이야기 합니다.(교육청, 사설 포함) 
+  - 모의고사 : 모의고사 이야기 합니다.(교육청, 평가원 등) 
   - Devlop : 개발, 코딩 관련 공부 내용
   - Book : 독서 관련 내용
   - Present : 학교서 발표수업했던 것중 괜찮은 것
@@ -34,6 +30,7 @@
 - Month : 공부 흔적정리 **(매달 추가될 예정)**
   - 2022 April : 2022년 4월 공부 흔적
   - 2022 May : 2022년 5월 공부 흔적
+  - 2022 June : 2022년 5월 공부 흔적
 - 잡소리 : 공부외의 내용 올라갑나디.
   - Hobby : 취미 관련 이야기가 올라갑니다.
   - Review : 각종 리뷰가 올라갑니다
