@@ -1,7 +1,6 @@
-# 트친소
 ![image](https://user-images.githubusercontent.com/101883868/163679161-b16a59be-3454-43f6-af78-0d775902d81c.png)
 ## 😑 기본 정보
-- 이름 : Rocket Ride (악악우)
+- 이름 : 악악우([@llleeo0421](https://github.com/llleeo0421))
 - 나이 : 19
 
 ## 🐦 Tweet
@@ -29,6 +28,4 @@
 - Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
 - Instagram : [@llleeo__](https://instagram.com/llleeo__)
 - Twitter : [@llleeo0421](https://twitter.com/llleeo0421)
-- Git Hub
-  - Offcial : [August-Leo-0805](https://github.com/August-Leo-0805)
-  - Personal : [llleeo0421](https://github.com/llleeo0421)
+- Git Hub : [@August-Leo-0805](https://github.com/August-Leo-0805)
