@@ -15,6 +15,8 @@
 - 공부 관련 < 그외 이야기
   - 공부 외 이야기가 많이함. 이 이야기들 불편하면 오지마셈.
 - ❌ 지뢰
+- **JYP**
+  - JYP 소속(스키즈, 트와이스, 잇지등) 너무 많이 유입하지 않으면 괜찮음.
 - 트위터 최소 연령 보다 어린 사람
 - 정치 이야기 하는 사람
 
@@ -26,6 +28,6 @@
 ## 🖥️ Website
 - Asked : [llleeo](https://asked.kr/llleeo)
 - Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
+- Git Hub : [@August-Leo-0805](https://github.com/August-Leo-0805)
 - Instagram : [@llleeo__](https://instagram.com/llleeo__)
 - Twitter : [@llleeo0421](https://twitter.com/llleeo0421)
-- Git Hub : [@August-Leo-0805](https://github.com/August-Leo-0805)
