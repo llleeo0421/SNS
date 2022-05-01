@@ -2,7 +2,7 @@
 
 ## **Who am I**
 - Nickname : [Rocket Ride](https://open.spotify.com/track/6rbT6gJufhm9a5xEmMlyc1)
-  - Real Name : August Leo Kim  
+  - Real Name : August Leo Kim([@llleeo0421](https://github.com/llleeo0421))  
 - Born : 2004. Sep. 25
 - Hobby : Speed Cubing, Video Game
 - Favorite : OH MY GIRL
@@ -38,7 +38,7 @@
 
 ## **Website**
 - Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
-- Git Hub : [llleeo0421](https://github.com/llleeo0421)
-- Youtube : [llleeo](https://www.youtube.com/channel/UCoHALWM5iYLzsrytWGbNCxg)
+- Git Hub : [@August-Leo-0805](https://github.com/August-Leo-0805)
 - Instagram : [@llleeo__](https://instagram.com/llleeo__)
 - Twitter : [@llleeo0421](https://twitter.com/llleeo0421)
+- Youtube : [llleeo](https://www.youtube.com/channel/UCoHALWM5iYLzsrytWGbNCxg)
