@@ -5,7 +5,7 @@
   - Real Name : August Leo Kim([@llleeo0421](https://github.com/llleeo0421))  
 - Born : 2004. Sep. 25
 - Hobby : Speed Cubing, Video Game
-- Favorite : OH MY GIRL
+- Favorite : **OH MY GIRL**
 - MBTI : INTP
 
 ## **Post**
@@ -26,15 +26,15 @@
   - Devlop : 개발, 코딩 관련 공부 내용
   - Book : 독서 관련 내용
   - Present : 학교서 발표수업했던 것중 괜찮은 것
-  - Tip : 공부나 학교생활서 도움 될만한 정보(?)
 - Month : 공부 흔적정리 **(매달 추가될 예정)**
   - 2022 April : 2022년 4월 공부 흔적
   - 2022 May : 2022년 5월 공부 흔적
   - 2022 June : 2022년 6월 공부 흔적
 - 잡소리 : 공부외의 내용 올라갑나디.
+  - OHMYGIRL : 오마이걸 관련 이야기가 올라갑니다.
   - Hobby : 취미 관련 이야기가 올라갑니다.
   - Review : 각종 리뷰가 올라갑니다
-  - Dog Sound : 그 외 잡담이 올라갑니다.
+  - Talk : 그 외 잡담이 올라갑니다.
 
 ## **Website**
 - Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
