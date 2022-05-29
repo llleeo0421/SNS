@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/101883868/163679161-b16a59be-3454-43f6-af78-0d775902d81c.png)
 ## 😑 기본 정보
-- 이름 : 악악우([@llleeo0421](https://github.com/llleeo0421))
+- 이름 : 로켓쟝a_f([@llleeo0421](https://github.com/llleeo0421))
 - 나이 : 19
 
 ## 🐦 Tweet
 - FUB FREE
 - RT / 마음 / 개발 / 오마이걸 / 일상 / 탐라소통 / 등등
   - 블로그 글 공유
-    - 타이머 / 플래너 공유
+    - 타이머 / 플래너 공유(?)
   - 질문
 - 시간 : (약)24시간 상주
 
