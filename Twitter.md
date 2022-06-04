@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/101883868/163679161-b16a59be-3454-43f6-af78-0d775902d81c.png)
 ## 😑 기본 정보
-- 이름 : 로켓쟝a_f([@llleeo0421](https://github.com/llleeo0421))
+- 이름 : 펭귄쟝a_f([@llleeo0421](https://github.com/llleeo0421))
 - 나이 : 19
 
 ## 🐦 Tweet
